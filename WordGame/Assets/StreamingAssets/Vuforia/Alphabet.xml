@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="A491" size="5.000000 5.059642" />
+    <ImageTarget name="A54" size="5.000000 5.059642" />
+    <ImageTarget name="A53" size="5.000000 5.048923" />
+    <ImageTarget name="A51" size="5.000000 5.009785" />
+    <ImageTarget name="A50" size="5.000000 4.940594" />
+    <ImageTarget name="A49" size="5.000000 5.059642" />
+    <ImageTarget name="A48" size="5.000000 4.980507" />
+    <ImageTarget name="A47" size="5.000000 4.922481" />
+    <ImageTarget name="A45" size="5.000000 4.980080" />
+    <ImageTarget name="A44" size="4.000000 3.944990" />
+    <ImageTarget name="A43" size="5.000000 4.930966" />
+    <ImageTarget name="A42" size="5.000000 4.932563" />
+    <ImageTarget name="A41" size="5.000000 4.969008" />
+    <ImageTarget name="A35n35" size="5.000000 5.000000" />
+    <ImageTarget name="A35w" size="5.000000 4.952038" />
+    <ImageTarget name="A35New2" size="5.000000 4.952038" />
+    <ImageTarget name="A35N" size="5.000000 5.036585" />
+    <ImageTarget name="A_35" size="5.000000 5.000000" />
+    <ImageTarget name="H_35" size="5.000000 5.000000" />
+    <ImageTarget name="R_35" size="5.000000 5.000000" />
+    <ImageTarget name="P_35" size="5.000000 5.000000" />
+    <ImageTarget name="O_35" size="5.000000 5.000000" />
+    <ImageTarget name="M_35" size="5.000000 5.000000" />
+    <ImageTarget name="E_35" size="5.000000 5.000000" />
+    <ImageTarget name="B_35" size="5.000000 5.000000" />
+    <ImageTarget name="G_35" size="5.000000 5.000000" />
+    <ImageTarget name="P4" size="5.000000 4.980620" />
+    <ImageTarget name="R4" size="5.000000 4.980620" />
+    <ImageTarget name="O4" size="5.000000 5.000000" />
+    <ImageTarget name="M4" size="5.000000 4.980620" />
+    <ImageTarget name="K4" size="5.000000 5.009727" />
+    <ImageTarget name="H4" size="5.000000 5.009747" />
+    <ImageTarget name="G4" size="5.000000 4.990291" />
+    <ImageTarget name="E4" size="5.000000 4.990291" />
+    <ImageTarget name="D4" size="5.000000 4.980620" />
+    <ImageTarget name="C4" size="5.000000 4.990196" />
+    <ImageTarget name="B4" size="5.000000 4.990273" />
+    <ImageTarget name="A4" size="5.000000 4.980583" />
+    <ImageTarget name="R" size="5.000000 5.000000" />
+    <ImageTarget name="P" size="5.000000 5.000000" />
+    <ImageTarget name="O" size="5.000000 5.000000" />
+    <ImageTarget name="M" size="5.000000 5.000000" />
+    <ImageTarget name="H" size="5.000000 5.000000" />
+    <ImageTarget name="G" size="5.000000 5.000000" />
+    <ImageTarget name="E" size="5.000000 5.000000" />
+    <ImageTarget name="D" size="5.000000 5.000000" />
+    <ImageTarget name="C" size="5.000000 5.000000" />
+    <ImageTarget name="B" size="5.000000 5.000000" />
+    <ImageTarget name="A" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>

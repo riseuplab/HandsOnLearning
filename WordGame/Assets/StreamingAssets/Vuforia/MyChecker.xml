@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="R5" size="5.000000 4.980620" />
+    <ImageTarget name="R5_1" size="5.000000 4.980620" />
+    <ImageTarget name="P5" size="5.000000 4.980620" />
+    <ImageTarget name="P5_1" size="5.000000 4.980620" />
+    <ImageTarget name="M5" size="5.000000 4.980620" />
+    <ImageTarget name="M5_1" size="5.000000 4.980620" />
+    <ImageTarget name="B5" size="5.000000 4.990273" />
+    <ImageTarget name="B5_1" size="5.000000 4.990273" />
+    <ImageTarget name="a2" size="5.000000 4.980583" />
+    <ImageTarget name="b2" size="5.000000 4.990273" />
+    <ImageTarget name="c2" size="5.000000 4.980431" />
+    <ImageTarget name="d2" size="5.000000 4.980620" />
+    <ImageTarget name="e2" size="5.000000 4.990291" />
+    <ImageTarget name="f2" size="5.000000 5.009727" />
+    <ImageTarget name="g2" size="5.000000 4.990291" />
+    <ImageTarget name="h2" size="5.000000 5.009747" />
+    <ImageTarget name="i2" size="5.000000 5.009727" />
+    <ImageTarget name="j2" size="5.000000 5.009727" />
+    <ImageTarget name="k2" size="5.000000 5.009727" />
+    <ImageTarget name="l2" size="5.000000 5.009747" />
+    <ImageTarget name="m2" size="5.000000 4.980620" />
+    <ImageTarget name="n2" size="5.000000 4.980620" />
+    <ImageTarget name="o2" size="5.000000 5.000000" />
+    <ImageTarget name="p2" size="5.000000 4.980620" />
+    <ImageTarget name="q2" size="5.000000 4.980583" />
+    <ImageTarget name="r2" size="5.000000 4.980620" />
+    <ImageTarget name="s2" size="5.000000 4.990273" />
+    <ImageTarget name="t2" size="5.000000 5.000000" />
+    <ImageTarget name="u2" size="5.000000 4.980583" />
+    <ImageTarget name="v2" size="5.000000 4.990273" />
+    <ImageTarget name="w2" size="5.000000 4.980583" />
+    <ImageTarget name="x2" size="5.000000 4.990273" />
+    <ImageTarget name="y2" size="5.000000 4.980583" />
+    <ImageTarget name="z2" size="5.000000 4.990273" />
+    <ImageTarget name="a1" size="5.000000 4.980583" />
+    <ImageTarget name="c1" size="5.000000 4.980431" />
+    <ImageTarget name="b1" size="5.000000 4.990273" />
+    <ImageTarget name="d1" size="5.000000 4.980620" />
+    <ImageTarget name="e1" size="5.000000 4.990291" />
+    <ImageTarget name="f1" size="5.000000 5.009727" />
+    <ImageTarget name="g1" size="5.000000 4.990291" />
+    <ImageTarget name="h1" size="5.000000 5.009747" />
+    <ImageTarget name="i1" size="5.000000 5.009727" />
+    <ImageTarget name="j1" size="5.000000 5.009727" />
+    <ImageTarget name="k1" size="5.000000 5.009727" />
+    <ImageTarget name="l1" size="5.000000 5.009747" />
+    <ImageTarget name="m1" size="5.000000 4.980620" />
+    <ImageTarget name="n1" size="5.000000 4.980620" />
+    <ImageTarget name="o1" size="5.000000 5.000000" />
+    <ImageTarget name="p1" size="5.000000 4.980620" />
+    <ImageTarget name="q1" size="5.000000 4.980583" />
+    <ImageTarget name="r1" size="5.000000 4.980620" />
+    <ImageTarget name="s1" size="5.000000 4.990273" />
+    <ImageTarget name="t1" size="5.000000 5.000000" />
+    <ImageTarget name="u1" size="5.000000 4.940000" />
+    <ImageTarget name="v1" size="5.000000 4.940000" />
+    <ImageTarget name="w1" size="5.000000 4.980583" />
+    <ImageTarget name="x1" size="5.000000 4.990273" />
+    <ImageTarget name="y1" size="5.000000 4.980583" />
+    <ImageTarget name="z1" size="5.000000 4.990273" />
+  </Tracking>
+</QCARConfig>
