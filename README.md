@@ -7,13 +7,16 @@ How It Works:
 
 Put your device in a plain Base with the mirror reflector over the camera.
 
-Play with physical game pieces - Spelling, Numbers and more…
+Play with physical game pieces - Spelling,Numbers Colors, Animal name, Fruits, Shapes, IQ Test, Making Sentences,Vocabulary game etc
 
 Upcoming Features:
 
 # Puzzle
 # Drawing
 # Math
+# Making Sentences
+# IQ Test
+
 
 
 Video Link :
