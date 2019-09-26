@@ -13,6 +13,7 @@ Upcoming Features:
 
 >Puzzle
 >Drawing
+>d
 >Math
 
 
