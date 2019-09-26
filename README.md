@@ -11,9 +11,9 @@ Play with physical game pieces - Spelling, Numbers and more…
 
 Upcoming Features:
 
-Puzzle
-Drawing
-Math
+>Puzzle
+>Drawing
+>Math
 
 
 Video Link :
